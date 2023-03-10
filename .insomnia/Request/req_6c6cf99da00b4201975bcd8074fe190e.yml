@@ -1,0 +1,21 @@
+_id: req_6c6cf99da00b4201975bcd8074fe190e
+type: Request
+parentId: wrk_99134ccb3dc04b32908428acef8356b7
+modified: 1678428156388
+created: 1678427638985
+url: https://jsonplaceholder.typicode.com/posts?userId=5
+name: Demo Posts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678427638985
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
